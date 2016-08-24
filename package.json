@@ -1,0 +1,16 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "challange2.js",
+  "scripts": {
+    "test": "start",
+    "start": "node challange2.js"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "request-promise": "^4.1.1"
+  }
+}
